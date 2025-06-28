@@ -1,4 +1,4 @@
-package com.brighamband.sayhellogreeter;
+package com.brighamband.greeterdroid;
 
 import org.junit.Test;
 

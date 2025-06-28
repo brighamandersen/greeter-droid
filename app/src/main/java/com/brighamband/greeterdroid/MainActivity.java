@@ -1,4 +1,4 @@
-package com.brighamband.sayhellogreeter;
+package com.brighamband.greeterdroid;
 
 import androidx.appcompat.app.AppCompatActivity;
 

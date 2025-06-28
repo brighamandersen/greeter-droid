@@ -1,4 +1,4 @@
-package com.brighamband.sayhellogreeter;
+package com.brighamband.greeterdroid;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.brighamband.sayhellogreeter", appContext.getPackageName());
+        assertEquals("com.brighamband.greeterdroid", appContext.getPackageName());
     }
 }
